@@ -55,21 +55,28 @@ I'm a passionate software engineer specializing in **algorithmic trading systems
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-## 📈 GitHub Analytics
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esshka&theme=tokyo-night&hide_border=true&area=true)
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esshka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esshka&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esshka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=esshka&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🏆 Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=esshka&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+## 📊 Development Focus
+
+```text
+Algorithmic Trading    ████████████████████████████  90%
+Machine Learning       ████████████████████████████  85%
+System Architecture    ███████████████████████████   80%
+Financial Technology   ████████████████████████████  90%
+```
 
 ## 📝 Latest Articles & Insights
 
