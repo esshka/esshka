@@ -10,7 +10,7 @@
 
 ---
 
-## �‍💻 About Me
+## About Me
 
 I am a **Principal Software Engineer and Architect** with **20+ years of professional experience** building complex systems.
 
