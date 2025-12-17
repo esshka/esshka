@@ -1,19 +1,54 @@
-# Hi there, I'm Eugene 👋
+# Hi, I'm Eugene — Principal Software Engineer & Architect
 
-## 🚀 About Me
+<div align="center">
 
-I'm a passionate software engineer specializing in **algorithmic trading systems** and **financial technology**. Currently developing cutting-edge market making software that leverages genetic algorithms and deep learning to optimize trading strategies.
+[![Upwork](https://img.shields.io/badge/Upwork-TOP_RATED+-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/esshka)
+[![Success Rate](https://img.shields.io/badge/Success_Rate-100%25-success?style=for-the-badge)]()
+[![Since](https://img.shields.io/badge/Freelancing_Since-2016-blue?style=for-the-badge)]()
 
-### 🎯 What I'm Working On
-- **TA2 Trading Automation Platform** - A comprehensive trading system with microservices architecture
-- **Market Making Algorithms** - Advanced genetic algorithms combined with deep learning models
-- **Real-time Financial Data Processing** - High-performance systems for market data analysis
+</div>
 
-### 🌟 Key Expertise
-- **Algorithmic Trading** - Market making, strategy development, and backtesting systems
-- **Machine Learning** - Deep learning models for financial prediction and optimization
-- **Distributed Systems** - Microservices, event-driven architecture, and real-time processing
-- **Financial Technology** - Exchange integrations, order management, and risk systems
+---
+
+## �‍💻 About Me
+
+I am a **Principal Software Engineer and Architect** with **20+ years of professional experience** building complex systems.
+
+My background is in **Mathematics and Computer Science**. This gives me strong fundamentals in algorithms, data structures, and theoretical foundations of machine learning.
+
+I value clean architecture and well-structured code. My preferred patterns include **SOLID principles**, **Event-Driven Architecture**, **CQRS**, and **asynchronous programming**. These approaches allow me to build systems that are maintainable, scalable, and easy to reason about.
+
+I earned my **Microsoft Certified Solution Developer (MCSD)** certification in 2005. Since then, I have worked professionally with C#, .NET ecosystem, and many other technologies.
+
+Over the years, I have built and shipped products for multiple startups. I have experience in full product lifecycle — from initial architecture to production deployment and maintenance.
+
+My project portfolio covers many domains: **e-commerce**, **booking and ticketing systems**, **project management and issue-tracking software**, **real-time online games**, and various **real-time communication systems**. I have extensive experience with **trading platforms**, **exchange APIs**, **cryptocurrency**, and **fintech** in general.
+
+Since 2016, I maintain a **TOP rated+** profile on Upwork with **100% Job Success Score**. My clients range from early-stage startups to established companies.
+
+---
+
+## 🎯 Current Focus
+
+Right now I am working on **algorithmic trading systems** and **financial technology**. This includes:
+
+- **Market Making Software** — Genetic algorithms combined with deep learning, designed for high-frequency trading
+- **Neuroevolution-Driven Autonomous Systems** — Self-evolving neural networks for adaptive decision making  
+- **Advanced Computer Vision** — Deep learning solutions for image processing and visual recognition
+
+---
+
+## 🧠 Core Expertise
+
+| Domain | Experience |
+|--------|------------|
+| **Software Architecture** | System design, distributed systems, microservices, event-driven architecture |
+| **Machine Learning & AI** | Deep learning, neural networks, neuroevolution, reinforcement learning, agentic AI |
+| **Generative AI** | LLMs, prompt engineering, RAG systems, AI agents, autonomous systems |
+| **Computer Vision** | Image processing, object detection, visual recognition, video analysis |
+| **Robotics & Automation** | Sensor integration, control systems, autonomous decision making |
+| **Financial Technology** | Algorithmic trading, market making, backtesting, exchange integrations |
+| **Backend Development** | High-performance systems, real-time processing, API design |
 
 ## 🛠️ Technology Stack
 
@@ -84,21 +119,35 @@ I share my thoughts on algorithmic trading, machine learning, and software engin
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eugenesh4work)
 
-## 🤝 Let's Connect
+---
 
-I'm always interested in discussing:
-- **Algorithmic Trading Strategies**
-- **Machine Learning in Finance** 
-- **High-Performance Systems Design**
-- **Open Source Collaboration**
+## 💼 Available for Hire
 
-Feel free to reach out if you'd like to collaborate on projects or discuss innovative approaches to financial technology!
+I am available for **contract work**, **consulting**, and **long-term engagements**.
+
+### What I Can Help You With:
+
+- **System Architecture & Design** — Building scalable, maintainable software systems from scratch
+- **Machine Learning Solutions** — From prototype to production ML pipelines
+- **Technical Leadership** — Guiding teams, code reviews, architecture decisions
+- **Algorithmic Trading Systems** — End-to-end trading platform development
+- **Performance Optimization** — Making your systems faster and more efficient
+
+### How to Reach Me:
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/esshka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugenesh4work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esshka)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"The best investment you can make is in yourself and your ability to learn."*
+*"Simple solutions to complex problems. Clean code. Delivered on time."*
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=esshka&icon=2&color=6)
 
