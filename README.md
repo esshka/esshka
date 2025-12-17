@@ -90,28 +90,11 @@ Right now I am working on **algorithmic trading systems** and **financial techno
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esshka&theme=tokyo-night&hide_border=true&area=true)
 
-<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=esshka&theme=tokyonight&hide_border=true)
 
-</div>
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=esshka&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-## 📊 Development Focus
-
-```text
-Algorithmic Trading    ████████████████████████████  90%
-Machine Learning       ████████████████████████████  85%
-System Architecture    ███████████████████████████   80%
-Financial Technology   ████████████████████████████  90%
-```
 
 ## 📝 Latest Articles & Insights
 
@@ -121,17 +104,37 @@ I share my thoughts on algorithmic trading, machine learning, and software engin
 
 ---
 
-## 💼 Available for Hire
+## 💼 Hire Me
 
-I am available for **contract work**, **consulting**, and **long-term engagements**.
+I provide **consulting** and **software development services**. I am available for contract work, advisory roles, and long-term engagements.
 
-### What I Can Help You With:
+### Consulting Services
 
-- **System Architecture & Design** — Building scalable, maintainable software systems from scratch
-- **Machine Learning Solutions** — From prototype to production ML pipelines
-- **Technical Leadership** — Guiding teams, code reviews, architecture decisions
-- **Algorithmic Trading Systems** — End-to-end trading platform development
-- **Performance Optimization** — Making your systems faster and more efficient
+I help companies solve complex technical challenges:
+
+- **Technical Architecture Review** — I will analyze your existing system and provide recommendations for improvement. This includes identifying bottlenecks, security issues, and scalability concerns.
+- **AI/ML Strategy** — I help teams adopt machine learning effectively. From choosing the right approach to building production-ready pipelines.
+- **Technology Advisory** — Need guidance on technology choices? I provide unbiased advice based on your specific requirements and constraints.
+- **Team Mentoring** — I work with your engineering team to improve their skills. Code reviews, pair programming, and knowledge transfer.
+
+### Software Development Services
+
+I build custom software solutions:
+
+- **Full-Stack Development** — End-to-end implementation from backend services to frontend interfaces. I work with Python, Java, Rust, JavaScript, and other modern stacks.
+- **Machine Learning Systems** — Custom ML solutions including data pipelines, model training, deployment, and monitoring.
+- **Algorithmic Trading Platforms** — Exchange integrations, backtesting frameworks, signal processing, and execution systems.
+- **High-Performance Systems** — When performance matters. Low-latency applications, optimized data processing, real-time systems.
+- **API Development** — RESTful APIs, GraphQL, WebSocket services. Designed for reliability and ease of integration.
+
+### Engagement Models
+
+I offer flexible working arrangements:
+
+- **Hourly Consulting** — For focused problem-solving and advice
+- **Project-Based** — Fixed scope with clear deliverables
+- **Retainer** — Ongoing support with guaranteed availability
+- **Long-Term Contract** — Embedded in your team for extended periods
 
 ### How to Reach Me:
 
